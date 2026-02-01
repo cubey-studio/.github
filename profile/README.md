@@ -6,7 +6,7 @@ Hello people of GitHub! This is a organization for a complete IDE that is Cubey 
 You can be a member of the organization Cubey Studio if you are soo good at C++, C#, Python or something else.
 
 ### About our IDE:
-The IDE is Cubey Studio and the version is 1, but if any people need a update of Cubey Studio like v2 or v2.5, we create a new brance.
+The IDE is Cubey Studio and the version is 1, but if any people need a update of Cubey Studio like v2 or v2.5, we create a new branch.
 
 ### And we have about our IDE:
 We have:
