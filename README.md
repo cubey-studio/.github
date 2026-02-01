@@ -7,3 +7,8 @@ You can be a member of the organization Cubey Studio if you are soo good at C++,
 
 ### About our IDE:
 The IDE is Cubey Studio and the version is 1, but if any people need a update of Cubey Studio like v2 or v2.5, we create a new brance.
+
+### And we have about our IDE:
+We have:
+- Support of many engine that requires code out from the editor like Unity, Unreal, Cocos2D-X or something else,
+- Support: Python, Java, C++, C, Kotlin, PHP, JavaScript, Lua, TypeScript and others languages.
