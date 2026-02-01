@@ -12,5 +12,10 @@ The IDE is Cubey Studio and the version is 1, but if any people need a update of
 We have:
 - Support of many engine that requires code out from the editor like Unity, Unreal, Cocos2D-X or something else,
 - Support: Python, Java, C++, C, Kotlin, PHP, JavaScript, Lua, TypeScript and others languages.
+
+# And we have some extra things!
+- Cubey Studio Engine,
+- Cube Studio 2D-X.
+
 # But remember:
 Every update comes, we create a new branch.
